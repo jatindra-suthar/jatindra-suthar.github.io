@@ -9,8 +9,6 @@ toc: true
 toc_sticky: true
 ---
 
-## Overview
-
 [Siri](https://www.apple.com/in/siri/), Apple's voice assistant, can be used for a variety of tasks, from setting reminders and sending messages to playing music and searching the web. However, what if we could connect Siri to a more advanced AI system like [ChatGPT](https://openai.com/blog/chatgpt)? In this blog post, we'll explore how you can connect Siri with ChatGPT to unlock new possibilities for voice assistants.
 
 ChatGPT is an advanced AI system that uses machine learning algorithms to understand and respond to natural language queries. With access to vast amounts of data, ChatGPT is capable of answering complex questions, providing detailed information, and generating human-like responses. By connecting Siri with ChatGPT, you can leverage the power of both systems to create a more comprehensive voice assistant experience.
